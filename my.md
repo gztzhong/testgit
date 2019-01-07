@@ -25,5 +25,5 @@
             <th>标准错误输出</th>
         </tr>
     </table>
-	![avatar](./tom.jpg)
+	![avatar](tom.jpg)
 
